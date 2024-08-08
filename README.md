@@ -4,7 +4,7 @@
 ## Description
 It collects 2,507 speakers from Sichuan Basin and is recorded in quiet indoor environment. The recorded content covers customer consultation and text messages in many fields. The average number of repetitions is 1.3 and the average sentence length is 12.5 words. Sichuan natives participate in quality inspection and proofreading to ensure the accuracy of the text transcription.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/52?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/52?source=Github
 
 
 ## Format
